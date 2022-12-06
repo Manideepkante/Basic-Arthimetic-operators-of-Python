@@ -1,0 +1,6 @@
+A=56
+B=69
+print(A+B)
+print(A-B)
+print(A*B)
+print(A/B)
